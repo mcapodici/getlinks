@@ -1,6 +1,6 @@
 {
   "name": "@mcapodici/getlinks",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Downloads a URL and obtains the backlinks. Gives information about nofollow status and internal vs. external links.",
   "main": "index.js",
   "keywords": [
