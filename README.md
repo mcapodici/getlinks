@@ -28,6 +28,20 @@ npm i getlinks -g
 getlinks "http://www.basicwebsiteexample.com"
 ```
 
+or
+
+```
+npx getlinks "http://www.basicwebsiteexample.com"
+```
+
+## Example console output:
+
+```
+URL fetch to begin.
+URL fetch complete.
+Results written to result.csv
+```
+
 ## Example result:
 
 ```
